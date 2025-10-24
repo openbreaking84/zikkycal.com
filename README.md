@@ -11,7 +11,9 @@
     <img src="https://imgto.me/?p=7456" width="50%" height="200%">
   </a>
 </p>
-
+<p align="center">
+  <a href="https://ibb.co/1GgrHX55"><img src="https://i.ibb.co/GQ6WgMLL/9ec24a66075ea90b39ee47c5b2c2aafd.jpg" alt="9ec24a66075ea90b39ee47c5b2c2aafd" border="0"></a>
+</p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=PLEASE+FORK+THE+REPO+FOR+MORE+UPDATES)](https://git.io/typing-svg)
 >
 
