@@ -7,7 +7,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <a href="https://files.catbox.moe/3u88n0.webp">
+  <a href="https://github.com/zikky0001-droid">
     <img src="https://files.catbox.moe/avsek4.jpg" width="100%" height="auto">
   </a>
 </p>
