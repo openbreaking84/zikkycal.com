@@ -8,7 +8,7 @@
 <!-- Banner Image -->
 <p align="center">
   <a href="https://github.com/zikky0001-droid">
-    <img src="https://imgto.me/?p=7456" width="100%" height="auto">
+    <img src="https://imgto.me/?p=7456" width="50%" height="40%">
   </a>
 </p>
 
