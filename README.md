@@ -41,7 +41,7 @@
  
  ---
  
- <a href="https://t.me/cyberdevsofficial"><img title="OUR-TELEGRAM CHANNEL" src="https://img.shields.io/badge/OUR-TELEGRAM CHANNEL-h?color=blue&style=for-the-badge&logo=telegram" width="280" height="38.45"/></a></p>
+ <a href="https://t.me/zikkycal"><img title="OUR-TELEGRAM CHANNEL" src="https://img.shields.io/badge/OUR-TELEGRAM CHANNEL-h?color=blue&style=for-the-badge&logo=telegram" width="280" height="38.45"/></a></p>
 
 
   </a>
@@ -52,10 +52,6 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+Lady+Bella2+Edition+by+SNOWBIRD👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=Zikky.cal+Calculator+Edition+by+ZIKKY+🥂;⚡+The+Best+Simple+Calculator+All+Over+The+Globe" alt="Footer Animation">
 </h3>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
 
