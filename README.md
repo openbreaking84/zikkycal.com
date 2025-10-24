@@ -2,7 +2,7 @@
 <!-- Glowing Header -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=ZIKKY+🌟;🔥+The+Best+Simple+Calculator+Across+The+Glob;💻+Crafted+by+ZIKKYSTAR 🥂;⚡+Next-Generation+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=ZIKKY+%F0%9F%8C%9F;%F0%9F%94%A5+The+Best+Simple+Calculator+Across+The+Glob;%F0%9F%92%BB+Crafted+by+ZIKKYSTAR%20%F0%9F%A5%82;%E2%9A%A1+Next-Generation+Reliable+%E2%9C%85%22%20alt=%22Typing%20Animation">
 </h1>
 
 <!-- Banner Image -->
