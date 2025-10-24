@@ -7,20 +7,18 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <a href="https://github.com/zikky0001-droid">
-    <img src="https://imgto.me/?p=7456" width="50%" height="200%">
+  <a href="">
+    <img src="https://ibb.co/1GgrHX55" width="80%" height="auto">
   </a>
 </p>
-<p align="center">
-  <a href="https://ibb.co/1GgrHX55"><img src="https://i.ibb.co/GQ6WgMLL/9ec24a66075ea90b39ee47c5b2c2aafd.jpg" alt="9ec24a66075ea90b39ee47c5b2c2aafd" border="0"></a>
-</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=PLEASE+FORK+THE+REPO+FOR+MORE+UPDATES)](https://git.io/typing-svg)
 >
 
 ---
-<h4 align="left">1. ᴍʏ ᴀᴄᴄᴏᴜɴᴛ</h4>
+<h4 align="left"> ᴍʏ ᴀᴄᴄᴏᴜɴᴛ</h4>
 <p align="left">
-<a href='https://github.com/SNOWBIRD0074' target="_blank"><img alt='Github' src='https://img.shields.io/badge/-Github%20Follow-blue?style=for-the-badge&logo=github&logoColor=white'/></a>
+<a href='https://github.com/zikky0001-droid' target="_blank"><img alt='Github' src='https://img.shields.io/badge/-Github%20Follow-blue?style=for-the-badge&logo=github&logoColor=white'/></a>
 </p>
 
 
@@ -33,13 +31,13 @@
 ### ⭐ ғᴏʀᴋ & sᴛᴀʀ ʀᴇᴘᴏsɪᴛᴏʀʏ
 ғᴏʀᴋ & sᴛᴀʀ ⭐ ᴛᴏ sᴜᴘᴘᴏʀᴛ ZIKKYSTAR!
 
-[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/SNOWBIRD0074/Lady-Bella2/fork)
+[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/zikky0001-droid)
 
 ---
 ## Fᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ғᴏʀ ᴜᴘᴅᴀᴛᴇs
 
 
- <a href="https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
+ <a href="https://whatsapp.com/channel/0029VbBZvOz2ZjCqKD7IXe0e"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
  
  ---
  
