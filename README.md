@@ -7,8 +7,8 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <a href="">
-    <img src="https://ibb.co/1GgrHX55" width="80%" height="auto">
+  <a href="https://github.com/zikky0001-droid/zikkycal.com">
+    <img alt="Zikkycal docs" height="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXydRXBzevNkTBZ0FkIQuPLzbxNvv-Eb3HC4ATql0gA&s=10">
   </a>
 </p>
 
