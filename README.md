@@ -31,7 +31,7 @@
 ### ⭐ ғᴏʀᴋ & sᴛᴀʀ ʀᴇᴘᴏsɪᴛᴏʀʏ
 ғᴏʀᴋ & sᴛᴀʀ ⭐ ᴛᴏ sᴜᴘᴘᴏʀᴛ ZIKKYSTAR!
 
-[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/zikky0001-droid/zikkycal/fork)
+[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/zikky0001-droid/zikkycal.com/fork)
 
 ---
 ## Fᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ғᴏʀ ᴜᴘᴅᴀᴛᴇs
