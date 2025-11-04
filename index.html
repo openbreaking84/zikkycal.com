@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dev•ZIKKY Calculator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Theme Toggle -->
+<div class="theme-toggle">
+  <div class="toggle-container">
+    <span class="toggle-label">🌙</span>
+    <div class="toggle-switch" id="themeToggle"></div>
+    <span class="toggle-label">☀️</span>
+  </div>
+</div>
+
+  <!-- Hamburger toggle -->
+  <button id="menu-toggle" class="menu-toggle" aria-controls="primary-menu" aria-expanded="false" aria-label="Open primary menu">
+    <span class="dots" aria-hidden="true">
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+    </span>
+    <span><h3>MENU<br>INFO</h3></span>
+  </button>
+
+  <!-- Navigation -->
+  <nav id="primary-nav" class="primary-nav" aria-label="Primary navigation" aria-hidden="true">
+    <div class="nav-wrap">
+      <ul id="primary-menu" class="menu" role="menu">
+        <li role="none"><a role="menuitem" href="#home">Home</a></li>
+        <li role="none"><a role="menuitem" href="https://github.com/zikky0001-droid/zikkycal.com" target="_blank" rel="noopener">Services</a></li>
+        <li role="none"><a id="about-link" role="menuitem" href="#about">About</a></li>
+        <li role="none"><a id="license-link" role="menuitem" href="#license">License</a></li>
+      </ul>
+
+      <div class="menu-actions" aria-label="Menu actions">
+        <button id="menu-like" class="menu-action-btn like" aria-pressed="false">👍 Like</button>
+        <button id="share-btn" class="action-btn share">🔗 Share</button>
+        <a href="https://ngl.link/zikkywins/tbh" target="_blank" rel="noopener noreferrer">
+        <button id="menu-comment" class="menu-action-btn comment">💬 Comment</button>
+        </a> 
+
+      <div class="menu-bottom">
+        <a id="menu-whatsapp" class="menu-whatsapp" href="https://wa.me/qr/OOIPRRHEXCUCE1" target="_blank" rel="noopener">
+          Contact Me on WhatsApp
+        </a>
+        <footer class="menu-footer">
+          <h6>&copy; 2025 My Simple Calculator Website. All Rights Reserved.</h6>
+        </footer>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Overlay -->
+  <div id="menu-overlay" class="menu-overlay" hidden></div>
+
+  <!-- Custom Share Dialog -->
+  <div id="share-dialog" class="share-dialog" hidden>
+    <div class="share-dialog-content">
+      <div class="share-header">
+        <h3>Share ZikkyCal</h3>
+        <button id="close-share-dialog" class="close-btn">❌ </button>
+      </div>
+      
+      <div class="share-preview">
+        <div class="share-logo">Z</div>
+        <div class="share-details">
+          <div class="share-text">ZikkyCal Calculator</div>
+          <div class="share-description">Check out ZikkyCal, a smart calculator!</div>
+          <div class="share-url">https://github.com/zikky0001-droid/zikkycal.com</div>
+        </div>
+      </div>
+      
+      <div class="share-options-container">
+        <div class="share-section">
+          <h4>Share Options</h4>
+          <div class="share-options-grid">
+            <button class="share-option" data-share="send-devices">
+              <span class="share-icon">📱</span>
+              <span class="share-label">Share to Another Device</span>
+            </button>
+          </div>
+        </div>
+      </div>
+      
+      <div class="share-actions">
+        <button id="native-share-btn" class="share-action-btn primary">📱 Share via Device</button>
+        <button id="copy-link-btn" class="share-action-btn secondary">📋 Copy link</button>
+      </div>
+    </div>
+  </div>
+  
+  <!-- About Dialog -->
+<div id="about-dialog" class="about-dialog" hidden>
+  <div class="about-dialog-content">
+    <div class="about-header">
+      <h3>About This Project</h3>
+      <button id="close-about-dialog" class="close-btn">❌ </button>
+    </div>
+    <div class="about-content">
+      <div class="about-text">
+        <p><strong>About This Project</strong></p>
+        <p>This project is a lightweight, open-source initiative crafted with simplicity and accessibility in mind.</p>
+        <p>Designed To Be Functional Both Offline And When On Internet Mode, Alongside A Seamless User-friendly Interface.</p>
+        <p>Built by Isaac ( Zikky), it aims to empower developers and learners with clean, modular code and thoughtful design.</p>
+        <p>Whether you're exploring, contributing, or customizing, you're welcome here.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <!-- License Dialog -->
+  <div id="license-dialog" class="license-dialog" hidden>
+    <div class="license-dialog-content">
+      <div class="license-header">
+        <h3>License Information</h3>
+        <button id="close-license-dialog" class="close-btn">❌ </button>
+      </div>
+      <div class="license-content">
+        <div class="license-text">
+          <div class="mit-license-highlight">
+            <h4>MIT License with Attribution and Disclaimer</h4>
+          </div>
+          <h3><p><b>Copyright (c) 2025 (Zikky)</b></p></h3>
+          
+          <p>Permission is hereby granted, free of charge, to any person obtaining a copy
+          of this software and associated documentation files (the "Software"), to deal
+          in the Software without restriction, including without limitation the rights
+          to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+          copies of the Software, and to permit persons to whom the Software is
+          furnished to do so, subject to the following conditions:</p>
+          
+          <p>1. Attribution Required:
+          The above copyright notice and this permission notice shall be included in
+          all copies or substantial portions of the Software. You must give appropriate
+          credit to the original author (Isaac, aka Zikky), provide a link to the license,
+          and indicate if changes were made. You may do so in any reasonable manner,
+          but not in any way that suggests the licensor endorses you or your use.</p>
+          
+          <p>2. No Trademark License:
+          This license does not grant permission to use the trade names, trademarks,
+          service marks, or product names of the Licensor, except as required for
+          describing the origin of the Software and reproducing the content of the
+          copyright notice.</p>
+          
+          <p>3. No Warranty:
+          THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+          IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+          FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+          AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+          LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+          OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+          THE SOFTWARE.</p>
+          
+          <p>4. Use at Your Own Risk:
+          This software is intended for educational and personal use. It is not certified
+          for use in critical systems or environments where failure could result in
+          injury, loss, or damage. Use it at your own discretion.</p>
+          
+          <p>5. Contributions:
+          Contributions to this project are welcome. By submitting a pull request or
+          otherwise contributing, you agree to license your contributions under the
+          same license as this project.</p>
+          
+          <p>6. Jurisdiction:
+          This license shall be governed by and construed in accordance with the laws
+          of the jurisdiction in which the original author resides, unless otherwise
+          required by applicable law.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <h2>ZIKKY'S<br>SIMPLE<br>CALCULATOR</h2>
+
+  <!-- Display -->
+  <input
+    type="text"
+    id="display"
+    aria-label="Calculator display"
+    inputmode="numeric"
+    pattern="[0-9+\-*/.²√^()]*"
+    readonly
+  />
+
+  <!-- Buttons -->
+  <div class="calculator-buttons" role="application" aria-label="Calculator buttons">
+    <button type="button" data-action="square">x²</button>
+    <button type="button" data-action="sqrt">√x</button>
+    <button type="button" data-action="power">xʸ</button>
+    <button type="button" data-action="paren">()</button>
+
+    <button type="button" data-value="7">7</button>
+    <button type="button" data-value="8">8</button>
+    <button type="button" data-value="9">9</button>
+    <button type="button" data-value="/">÷</button>
+
+    <button type="button" data-value="4">4</button>
+    <button type="button" data-value="5">5</button>
+    <button type="button" data-value="6">6</button>
+    <button type="button" data-value="*">×</button>
+
+    <button type="button" data-value="1">1</button>
+    <button type="button" data-value="2">2</button>
+    <button type="button" data-value="3">3</button>
+    <button type="button" data-value="-">−</button>
+
+    <button type="button" data-value="0">0</button>
+    <button type="button" data-value=".">.</button>
+    <button type="button" id="equals">=</button>
+    <button type="button" data-value="+">+</button>
+
+    <button type="button" id="clear" class="wide-button">Clear</button>
+    <button type="button" id="del" class="wide-button">Del</button>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html>
